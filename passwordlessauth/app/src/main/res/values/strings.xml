@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">passwordlessauth</string>
+    <string name="welcome_to_myapp">welcome to myapp</string>
+    <string name="login">login</string>
+    <string name="signup">signup</string>
+    <string name="already_have_account">already have account</string>
+    <string name="create_an_account">create an account</string>
+</resources>
